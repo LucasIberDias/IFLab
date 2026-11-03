@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LabFlow",
+  "description": "Sistema Inteligente de Gestão e Reserva de Laboratórios Acadêmicos",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
